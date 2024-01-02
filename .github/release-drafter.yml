@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: scm-descriptive-pr-naming-$NEXT_MINOR_VERSION
